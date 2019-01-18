@@ -1,0 +1,14 @@
+C:\Users\gamexcoin\source\repos\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+C:\Users\gamexcoin\source\repos\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+C:\Users\gamexcoin\source\repos\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+C:\Users\gamexcoin\source\repos\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\gamexcoin\source\repos\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+C:\Users\gamexcoin\source\repos\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+C:\Users\gamexcoin\source\repos\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\gamexcoin\source\repos\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+C:\Users\gamexcoin\source\repos\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+C:\Users\gamexcoin\source\repos\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+C:\Users\gamexcoin\source\repos\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+C:\Users\gamexcoin\source\repos\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\gamexcoin\source\repos\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\gamexcoin\source\repos\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
